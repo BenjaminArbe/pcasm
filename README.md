@@ -1,4 +1,4 @@
-## Examples from PCASM Dr Paul Carter Assembly examples from his book using GNU as instead of NASM.
+## Examples from PCASM Dr Paul Carter Assembly examples from his book using GNU AS instead of NASM.
 
 Notes:
 1. The executable is always named after the .s filename.
