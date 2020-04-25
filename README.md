@@ -1,4 +1,4 @@
-## Examples from PCASM Dr Paul Carter Assembly examples from his book using GNU AS in IA-32
+## PCASM - Dr Paul Carter Assembly examples from his book using GNU AS in IA-32
 
 Notes:
 1. The generated executable by make is always named after the .s filename. ex.  make X=01first will produce ./01first
