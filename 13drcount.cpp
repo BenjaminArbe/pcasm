@@ -13,7 +13,7 @@ using std::dec;
 using std::string;
 using std::invalid_argument;
 
-extern "C" int count(int);
+extern "C" int count(unsigned);
 
 int 
 main(int argc, char **argv) {
