@@ -1,3 +1,7 @@
+# file: count4.s
+# to build: 	make X=13count4 D="13drcount 13count_init4" L=-lstdc++
+# to test:		./13count4
+# -----------------------------------------------------------------------------	
 		.file	"count4.s"
 
 		.sect	.text
