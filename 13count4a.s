@@ -39,7 +39,7 @@ byte_bit_count:		.zero		256			# lookup table
 		.type	initialize_count_bits, @function
 # ------------------------------------------------------------------------------
 initialize_count_bits:
-# extern "C" void initializando_count_bits(void);
+# extern "C" void initialize_count_bits(void);
 # Description:	initialize byte_bit_count array.
 # @return:		None
 		enter	$0, $0
